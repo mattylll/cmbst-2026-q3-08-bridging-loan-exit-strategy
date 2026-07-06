@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/cmbst-2026-q3-08-bridging-loan-exit-strategy/sitemap.xml
